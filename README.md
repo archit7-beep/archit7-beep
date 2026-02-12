@@ -74,12 +74,11 @@ https://github.com/archit7-beep/parkease-backend
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1e293b?style=for-the-badge&logo=plotly&logoColor=orange)
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=archit7-beep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=archit7-beep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=archit7-beep&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=archit7-beep&layout=compact&theme=radical" />
 </p>
 
 ---
