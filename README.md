@@ -74,19 +74,6 @@ https://github.com/archit7-beep/parkease-backend
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-1e293b?style=for-the-badge&logo=plotly&logoColor=orange)
 
 ---
-## 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archit7-beep&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=archit7-beep&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=archit7-beep&theme=tokyonight" />
-</p>
-
-
----
 
 ## 🔥 Contribution Streak
 
