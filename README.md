@@ -86,7 +86,7 @@ https://github.com/archit7-beep/parkease-backend
 ## 📫 Connect With Me
 
 📧 Email: architsali07@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/archit-sali-4528313a3  
+🔗 LinkedIn: https://www.linkedin.com/in/archit-sali  
 
 ---
 
